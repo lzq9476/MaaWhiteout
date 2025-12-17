@@ -1,0 +1,1 @@
+{"existsResearchTechnology":{"recognition":"TemplateMatch","template":"technology/research_technology.png","roi":[10,292,69,573],"threshold":0.9,"timeout":2000,"action":"click"},"orcWarehouseSupplyRemainingTime111":{"recognition":"OCR","roi":[219,1089,288,62],"expected":"^[天:0-9]*$","timeout":2000}}
